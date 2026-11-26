@@ -28,3 +28,7 @@ Explore our complete **[OfficeAttend Free HR & Payroll Tools Directory](https://
 2. Keep the default communication port set to **`4370`** and Comm Key **`0`**.
 3. Ensure your Windows PC running **[OfficeAttend Pro](https://officeattend.com/)** is on the same local subnet (`192.168.1.x`).
 4. Enter the device IP in OfficeAttend Pro and click **Connect & Sync Logs**.
+
+---
+
+🚀 **Featured on Product Hunt:** [OfficeAttend AI HR & Payroll Toolkit](https://www.producthunt.com/products/officeattend-ai-hr-payroll-toolkit?launch=officeattend-ai-hr-payroll-toolkit)
